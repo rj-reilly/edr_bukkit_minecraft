@@ -1,0 +1,1 @@
+node.default['edr_bukkit_minecraft']['home'] = "/servers/bukkit"
